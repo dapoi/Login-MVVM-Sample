@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Sample MVVM</string>
+    <string name="hi">Hai, Selamat Datang</string>
+    <string name="please_login">Silahkan login untuk melanjutkan</string>
+    <string name="email">Email</string>
+    <string name="input_email">Masukkan email anda</string>
+    <string name="input_password">Masukkan password anda</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
